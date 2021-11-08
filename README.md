@@ -13,7 +13,7 @@
 
 - Requires: Python >=3.6
 
-- import the image that you want for object detection in images folder and write the image file name on line 24 [image = cv2.imread('images/your_image_name_here.png')]. [Change in main.py](https://github.com/patelchirag13/ObjectDetector/blob/main/main.py)
+- import the image that you want for object detection in images folder and write the image file name on line 25 [image = cv2.imread('images/your_image_name_here.png')]. [Change in main.py](https://github.com/patelchirag13/ObjectDetector/blob/main/main.py)
 
 ## Dataset Used
 COCO is a large-scale object detection, segmentation, and captioning dataset. COCO has several features:
